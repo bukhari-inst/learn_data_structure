@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575105457 source:d:\materi\semester 3\struktur data\project\codeblocks\2-3 tree v2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<chrono>
+	<iostream>
+

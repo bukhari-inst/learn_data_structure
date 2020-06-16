@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571490837 source:d:\materi\semester 3\struktur data\project\codeblocks\sorting\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

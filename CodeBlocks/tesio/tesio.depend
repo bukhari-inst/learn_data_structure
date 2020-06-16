@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575882485 source:d:\materi\semester 3\struktur data\project\codeblocks\tesio\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+

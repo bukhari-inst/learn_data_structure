@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574997732 source:d:\materi\semester 3\struktur data\project\codeblocks\binary search tree\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<time.h>
+

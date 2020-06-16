@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575085811 source:d:\materi\semester 3\struktur data\project\codeblocks\2-3 tree cpp\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<fstream>
+	<ctime>
+

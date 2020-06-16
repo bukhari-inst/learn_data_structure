@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575894846 source:d:\materi\semester 3\struktur data\project\codeblocks\fngsi\main.cpp
+	<iostream>
+	<numeric>
+	<math.h>
+
